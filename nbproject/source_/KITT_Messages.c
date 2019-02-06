@@ -1,3 +1,5 @@
+//This is a stash test
+
 #include "assignment1_5.h"
 
 void KITT_message_welcome() {
